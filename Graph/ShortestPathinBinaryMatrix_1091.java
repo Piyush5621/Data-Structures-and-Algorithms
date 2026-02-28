@@ -45,3 +45,9 @@ class Solution {
 
     }
 }
+
+// 📌 Complexity
+
+// Time: O(n²)
+
+// Space: O(n²)
