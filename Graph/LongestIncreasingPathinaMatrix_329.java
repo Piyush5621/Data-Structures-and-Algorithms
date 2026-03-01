@@ -42,3 +42,59 @@ class Solution {
 
 
 // 2nd Solution
+
+class Pair{
+    int a;
+    int b;
+    Pair(int a,int b){
+        this.a=a;
+        this.b=b;
+    }
+}
+class Solution {
+    public int longestIncreasingPath(int[][] matrix) {
+        int n=matrix.length;
+        int m=matrix[0].length;
+        int[] dr = {-1,0,1,0};
+        int[] dc = {0,1,0,-1};
+        int dist[][]=new int[n][m];
+        List<List<Pair>> adjList=new ArrayList<>();
+        for(int i=0;i<n*m;i++){
+            adjList.add(new ArrayList<>());
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                int curr=i*m+j;
+                List<Integer> ad=new ArrayList<>();
+                for(int k=0;k<4;k++){
+                    int nr=i+dr[k];
+                    int nc=j+dc[k];
+                    if(nr>=0 && nr<n && nc>=0 && nc<m && matrix[i][j]<matrix[nr][nc] ){
+                        adjList.get(curr).add(new Pair(nr,nc));
+                    }
+                }  
+            }
+        }
+        int maxm=1;
+
+        for(int i=0;i<n*m;i++){
+            maxm=Math.max(maxm,dfs(i,adjList,dist,m));
+        }
+        return maxm;
+    }
+
+    static int dfs(int src,List<List<Pair>> adjList,int dist[][],int m){
+        int r=src/m;
+        int c=src%m;
+        if(dist[r][c]!=0) return dist[r][c];
+        int maxlen=1;
+        for(Pair p: adjList.get(src)){
+            int nr=p.a;
+            int nc=p.b;
+            int nbr=nr*m+nc;
+            maxlen=Math.max(maxlen,1+dfs(nbr,adjList,dist,m));
+        }
+        dist[r][c]=maxlen;
+        return maxlen;
+    }
+}
