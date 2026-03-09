@@ -1,3 +1,4 @@
+package BFS;
 class Solution {
     public boolean isBipartite(int[][] graph) {
         Queue<Integer> q=new LinkedList<>();
