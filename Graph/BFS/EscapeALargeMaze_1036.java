@@ -1,3 +1,4 @@
+import java.util.*;
 class Pair{
     int r;
     int c;
