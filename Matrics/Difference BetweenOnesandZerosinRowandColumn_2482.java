@@ -43,3 +43,46 @@ class Solution {
 
 // 2nd Approach\
 
+class Solution {
+    public int[][] onesMinusZeros(int[][] grid) {
+        int n=grid.length;
+        int m=grid[0].length;
+        int diff[][]=new int[n][m];
+        int rr[]=new int[n];
+        int cc[]=new int[m];
+        for(int i=0;i<n;i++){
+            int z=0;
+            int o=0;
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==1){
+                    o++;
+                }
+                else{
+                    z++;
+                }
+            }
+            rr[i]=o-z;
+        }
+        for(int i=0;i<m;i++){
+            int z=0;
+            int o=0;
+            for(int j=0;j<n;j++){
+                if(grid[j][i]==1){
+                    o++;
+                }
+                else{
+                    z++;
+                }
+            }
+            cc[i]=o-z;
+        }
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                diff[i][j]=rr[i]+cc[j];
+            }
+        }
+
+        return diff;
+    }
+}
