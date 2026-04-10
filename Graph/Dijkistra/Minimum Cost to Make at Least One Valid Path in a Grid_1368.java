@@ -13,38 +13,29 @@ class Solution {
         int n=grid.length;
         int m=grid[0].length;
         PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)-> a.cost-b.cost);
-        int visited[][] = new int[n][m];
-        for(int arr[] : visited) Arrays.fill(arr, Integer.MAX_VALUE);
+        int dist[][] = new int[n][m];
+        for(int arr[] : dist) Arrays.fill(arr, Integer.MAX_VALUE);
 
         pq.add(new Pair(0,0,0));
         int rr[] = new int[]{0,0,1,-1};
         int cc[] = new int[]{1,-1,0,0};
-        visited[0][0]=0;
+        dist[0][0]=0;
         while(!pq.isEmpty()){
             Pair p = pq.poll();
             int or = p.r;
             int oc = p.c;
             int ocost = p.cost;
-
             if(or == n-1 && oc == m-1){
                 return ocost;
             }
-
             for(int i=1;i<=4;i++){
                 int nr = or+rr[i-1];
                 int nc = oc+cc[i-1];
                 if(nr>=0 && nc>=0 && nr< n && nc < m){
-                    if(i!=grid[or][oc]){
-                        if(ocost+1<visited[nr][nc]){
-                            visited[nr][nc]=ocost+1;
-                            pq.add(new Pair(nr,nc,ocost+1));
-                        }
-                    }
-                    else{
-                        if(ocost<visited[nr][nc]){
-                            visited[nr][nc]=ocost;
-                            pq.add(new Pair(nr,nc,ocost));
-                        }
+                    int newcost= (i!=grid[or][oc]) ? ocost+1: ocost;
+                    if(newcost < dist[nr][nc]){
+                        dist[nr][nc]=newcost;
+                        pq.add(new Pair(nr,nc,newcost));
                     }
                 }
 
