@@ -1,0 +1,25 @@
+class Solution {
+    int count = 0;
+    public int maxUniqueSplit(String s) {
+        HashSet<String> set = new HashSet<>();
+        backT(new StringBuilder(s),set);
+        return count;
+    }
+
+    void backT(StringBuilder str,HashSet<String> set){
+      
+        for(int i=0; i<str.length(); i++){
+            String s = str.substring(0,i+1);
+            if(!set.contains(s)){
+                set.add(s);
+                str.delete(0, i+1);
+                count = Math.max(count,set.size());
+                backT(str,set);
+                set.remove(s);
+                str.insert(0,s);
+            }
+        }
+    }
+}
+
+// 2nd 
