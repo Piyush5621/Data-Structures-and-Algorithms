@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/score-validator">3921. Score Validator</a></h2><h3>Easy</h3><hr><p>You are given a string array <code>events</code>.</p>
+<h2><a href="https://leetcode.com/problems/score-validator">4281. Score Validator</a></h2><h3>Easy</h3><hr><p>You are given a string array <code>events</code>.</p>
 
 <p>Initially, <code>score = 0</code> and <code>counter = 0</code>. Each element in <code>events</code> is one of the following:</p>
 
