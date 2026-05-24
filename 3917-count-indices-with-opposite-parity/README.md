@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-indices-with-opposite-parity">3917. Count Indices With Opposite Parity</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-indices-with-opposite-parity">4295. Count Indices With Opposite Parity</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>The <strong>score</strong> of an index <code>i</code> is defined as the number of indices <code>j</code> such that:</p>
 
