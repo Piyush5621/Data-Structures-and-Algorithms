@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
+| [2833-furthest-point-from-origin](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Breadth-First Search
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
