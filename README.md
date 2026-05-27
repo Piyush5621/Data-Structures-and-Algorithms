@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
