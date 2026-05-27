@@ -20,7 +20,6 @@ class Solution {
             else{
                 char chh = Character.toLowerCase(ch);
                 if(freq[(chh-'a')+26]>0 && freq2[chh-'a']==freq[(chh-'a')+26] && freq2[(chh-'a')+26]==0){
-                    System.out.println(chh);
                     set.add(chh);
                 }
                 freq2[(chh-'a')+26]++;
