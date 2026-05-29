@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -99,10 +102,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
