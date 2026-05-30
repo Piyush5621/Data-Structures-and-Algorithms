@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Math
