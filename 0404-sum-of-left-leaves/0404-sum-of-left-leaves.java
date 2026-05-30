@@ -15,24 +15,14 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-        int ans = 0;
-        Queue<TreeNode> q = new ArrayDeque<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            while(size-->0){
-                TreeNode curr = q.poll();
-                if(curr.left!=null){
-                    if(curr.left.left==null && curr.left.right==null){
-                        ans+=curr.left.val;
-                    }
-                    q.add(curr.left);
-                }
-                if(curr.right!=null){
-                    q.add(curr.right);
-                }
-            }
+        if(root==null) return 0;
+        int sum=0;
+        if(root.left!=null && root.left.left==null && root.left.right==null){
+            sum+=root.left.val;
         }
-        return ans;
+        sum+=sumOfLeftLeaves(root.left);
+        sum+=sumOfLeftLeaves(root.right);
+        return sum;
+        
     }
 }
