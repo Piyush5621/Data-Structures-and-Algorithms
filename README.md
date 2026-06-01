@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
