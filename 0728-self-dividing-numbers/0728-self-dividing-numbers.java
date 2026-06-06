@@ -6,7 +6,8 @@ class Solution {
             int x = i;
             boolean flag = true;
             while(x>0){
-                if(x%10==0 || i%(x%10)!=0){
+                int d = x%10;
+                if(d==0 || i%d!=0){
                     flag = false;
                     break;
                 }
