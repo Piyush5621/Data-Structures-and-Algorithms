@@ -3,18 +3,14 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
 
         for(int i=left; i<=right; i++){
-            String str = String.valueOf(i);
+            int x = i;
             boolean flag = true;
-            for(int j=0;j<str.length();j++){
-                int a =str.charAt(j)-'0';
-                if(a==0){
+            while(x>0){
+                if(x%10==0 || i%(x%10)!=0){
                     flag = false;
                     break;
                 }
-                if(i%a!=0){
-                    flag = false;
-                    break; 
-                }
+                x/=10;
             }
             if(flag) ans.add(i);
         }
