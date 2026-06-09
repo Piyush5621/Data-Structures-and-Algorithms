@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
