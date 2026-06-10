@@ -8,16 +8,18 @@ class Solution {
                 int temp = images[i][j];
                 images[i][j]=images[i][e];
                 images[i][e] = temp;
+                if(j!=e){
+                    images[i][j]= (images[i][j]==0)? 1:0;
+                    images[i][e]= (images[i][e]==0)? 1:0;
+                }else{
+                    images[i][j]= (images[i][j]==0)? 1:0;
+                }
                 j++;
                 e--;
             }
         }
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                images[i][j]= (images[i][j]==0)? 1:0;
-            }
-        }
+        
 
         return images;
     }
