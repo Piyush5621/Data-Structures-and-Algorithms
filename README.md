@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Counting
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
