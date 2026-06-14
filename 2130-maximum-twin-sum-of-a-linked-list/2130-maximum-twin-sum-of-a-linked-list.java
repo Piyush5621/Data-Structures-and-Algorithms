@@ -10,22 +10,21 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        ListNode temp1 = head;
         ListNode slow = head;
         ListNode fast = head;
-        while( fast!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        ListNode curr1 = reverse(slow);
-        int maxm = 0;
-        while( temp1!=null && curr1!=null ){
-            int sum = temp1.val +curr1.val;
-            maxm = Math.max(maxm,sum);
-            temp1=temp1.next;
-            curr1=curr1.next;
+        ListNode secondHalf = reverse(slow);
+        int maxSum = 0;
+        ListNode firstHalf = head;
+        while (secondHalf != null) {
+            maxSum = Math.max(maxSum,firstHalf.val + secondHalf.val);
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
-        return maxm;
+        return maxSum;
     }
 
     ListNode reverse(ListNode node){
