@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 ## Greedy
