@@ -1,19 +1,27 @@
 class Solution {
     public String processStr(String s) {
         StringBuilder str = new StringBuilder();
-        for(int i=0; i<s.length(); i++){
-            char c = s.charAt(i);
-            if(c=='*' && !str.isEmpty()){
-                str.setLength(str.length()-1);
-            }
-            else if(c =='#' && !str.isEmpty()){
-                str.append(str.toString());
-            }
-            else if(c=='%'&& !str.isEmpty()){
-                str.reverse();
-            }
-            else if(c>='a' && c<='z'){
-                str.append(c);
+        for(char c : s.toCharArray()){
+            switch(c){
+                case '*':
+                    if(str.length()>0){
+                        str.setLength(str.length()-1);
+                    }
+                    break;
+                case '#':
+                    if(str.length()>0){
+                        str.append(str);
+                    }
+                    break;
+                case '%':
+                    if(str.length()>0){
+                        str.reverse();
+                    }
+                    break;
+                default :
+                    if(c>='a' && c<='z'){
+                        str.append(c);
+                    }
             }
         }
         return str.toString();
