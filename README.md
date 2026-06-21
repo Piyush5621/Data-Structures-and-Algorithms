@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
