@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
