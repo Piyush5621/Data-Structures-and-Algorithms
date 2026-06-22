@@ -15,14 +15,15 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-        if(root==null) return 0;
-        int sum=0;
-        if(root.left!=null && root.left.left==null && root.left.right==null){
-            sum+=root.left.val;
+        return dfs(root,false);  
+    }
+
+    private int dfs(TreeNode root, boolean isLeft){
+        if(root == null) return 0;
+        if(root.left == null && root.right == null){
+            return (isLeft)? root.val : 0;
         }
-        sum+=sumOfLeftLeaves(root.left);
-        sum+=sumOfLeftLeaves(root.right);
-        return sum;
-        
+
+        return dfs(root.left,true)+dfs(root.right,false);
     }
 }
