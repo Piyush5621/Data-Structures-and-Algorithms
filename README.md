@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
