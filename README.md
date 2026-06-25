@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
