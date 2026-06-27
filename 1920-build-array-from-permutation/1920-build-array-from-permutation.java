@@ -1,12 +1,13 @@
 class Solution {
     public int[] buildArray(int[] nums) {
-        int n = nums.length;
-        int ans[] = new int[n];
+        permute(nums,0);
+        return nums;
+    }
 
-        for(int i=0; i<n; i++){
-            ans[i] = nums[nums[i]];
-        }
-
-        return ans;
+    public void permute(int nums[], int start){
+        if(start>=nums.length) return;
+        int temp = nums[nums[start]];
+        permute(nums,start+1);
+        nums[start]= temp;
     }
 }
