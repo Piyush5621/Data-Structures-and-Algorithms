@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
