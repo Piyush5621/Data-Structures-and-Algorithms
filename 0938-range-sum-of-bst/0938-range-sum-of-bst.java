@@ -16,23 +16,17 @@
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
         if(root==null) return 0;
-        int ans =0 ;
-        if(root.val>=low && root.val<=high){
-            ans+=root.val;
-        }
-        ans+=summ(root.left,low,high);
-        ans+=summ(root.right,low,high);
-        return ans;
-    }
-    public int summ(TreeNode root, int low, int high){
-        if(root == null ) return 0;
-        int curr =0;
-        if(root.val>=low && root.val<=high){
-            curr+= root.val;
-        }
-        curr+=summ(root.left,low,high);
-        curr+=summ(root.right,low,high);
+        int sum =0;
 
-        return curr;
+        if(root.val>low){
+            sum+=rangeSumBST(root.left,low,high);
+        }
+        if(root.val>=low && root.val<=high){
+            sum+=root.val;
+        }
+        if(root.val<high){
+            sum+=rangeSumBST(root.right,low,high);
+        }
+        return sum;
     }
 }
