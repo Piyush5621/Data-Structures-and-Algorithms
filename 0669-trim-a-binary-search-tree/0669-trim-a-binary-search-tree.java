@@ -14,36 +14,18 @@
  * }
  */
 class Solution {
-    public TreeNode insert(TreeNode node,int x){
-        if(node==null){
-            node = new TreeNode(x);
-            return node;
-        }
-
-        if(node.val <  x){
-            node.right = insert(node.right,x);
-        }
-        else{
-            node.left = insert(node.left ,x);
-        }
-
-        return node;
-
-    } 
     public TreeNode trimBST(TreeNode root, int low, int high) {
-        TreeNode node = null;
-        node = search(root,node,low,high);
-        return node;
-    }
+        if(root == null) return null;
 
-    public TreeNode search(TreeNode root,TreeNode node, int low, int high){
-        if(root==null) return node;
-
-        if(root.val>=low && root.val<=high){
-            node = insert(node, root.val);
+        if(root.val < low){
+            return trimBST(root.right,low,high);
         }
-        node = search(root.left,node,low,high);
-        node = search(root.right,node,low,high);
-        return node;
+        if(root.val > high){
+            return trimBST(root.left,low,high);
+        }
+        root.left = trimBST(root.left,low,high);
+        root.right = trimBST(root.right,low,high);
+
+        return root;
     }
 }
