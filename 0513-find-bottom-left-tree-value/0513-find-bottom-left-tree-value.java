@@ -17,11 +17,11 @@ class Solution {
     int ans = 0;
     int h = -1;
     public int findBottomLeftValue(TreeNode root) {
-        solve(root,0,true);
+        solve(root,0);
         return ans;
     }
 
-    public void solve(TreeNode root, int height,boolean isLeft){
+    public void solve(TreeNode root, int height){
         if(root==null)  return;
         if((root.left==null || root.right==null) ){
             if(h < height ){
@@ -29,7 +29,7 @@ class Solution {
                 h = height;
             }
         }
-        solve(root.left, height+1, true);
-        solve(root.right, height+1, false);
+        solve(root.left, height+1);
+        solve(root.right, height+1);
     }
 }
