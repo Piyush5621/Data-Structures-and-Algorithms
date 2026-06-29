@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2574-left-and-right-sum-differences/) | Easy |
