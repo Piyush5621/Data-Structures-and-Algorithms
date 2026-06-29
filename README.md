@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
