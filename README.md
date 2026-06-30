@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
