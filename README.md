@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 ## Prefix Sum
