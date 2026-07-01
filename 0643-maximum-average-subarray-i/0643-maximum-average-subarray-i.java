@@ -7,13 +7,13 @@ class Solution {
             sum+=nums[i];
         }
         
-        ans = sum/k;
+        ans = sum;
         
         for(int i=k; i<nums.length; i++){
             sum = sum-nums[left] + nums[i];
-            ans = Math.max(sum/k,ans);
+            ans = Math.max(sum,ans);
             left++;
         }
-        return ans;
+        return ans/k;
     }
 }
