@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0796-rotate-string/) | Easy |
+| [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1528-shuffle-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1528-shuffle-string/) | Easy |
