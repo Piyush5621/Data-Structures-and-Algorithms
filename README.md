@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1534-count-good-triplets/) | Easy |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
