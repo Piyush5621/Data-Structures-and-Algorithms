@@ -3,7 +3,7 @@ class Solution {
         String str = "aeiou";
         int vowelCount = 0;
         for(int i = 0; i < k; i++){
-            if(str.indexOf(s.charAt(i))!=-1){
+            if(isVowel(s.charAt(i))){
                 vowelCount++;
             }
         }
@@ -12,14 +12,17 @@ class Solution {
             char left = s.charAt(i-k);
             char right = s.charAt(i);
 
-            if(str.indexOf(left)!=-1){
+            if(isVowel(left)){
                 vowelCount--;
             }
-            if(str.indexOf(right)!=-1){
+            if(isVowel(right)){
                 vowelCount++;
             }
             ans = Math.max(ans, vowelCount);
         }
         return ans;
+    }
+    private boolean isVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 }
