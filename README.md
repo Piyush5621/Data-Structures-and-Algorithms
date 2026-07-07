@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
