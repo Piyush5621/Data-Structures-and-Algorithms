@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1534-count-good-triplets/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
