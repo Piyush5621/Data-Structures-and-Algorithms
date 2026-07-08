@@ -1,5 +1,5 @@
 class Solution {
-    static final int MOD = 1_000_000_007;
+    static final int MOD = 1000000007;
 
     public int[] sumAndMultiply(String s, int[][] queries) {
         int n = s.length();
@@ -38,9 +38,7 @@ class Solution {
 
             int cnt = nonZeroCnt[r + 1] - nonZeroCnt[l];
 
-            long num = (prefixNum[r + 1]
-                    - (prefixNum[l] * pow10[cnt]) % MOD
-                    + MOD) % MOD;
+            long num = (prefixNum[r + 1] - (prefixNum[l] * pow10[cnt]) % MOD + MOD) % MOD;
 
             ans[i] = (int) ((num * sum) % MOD);
         }
