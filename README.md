@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Heap (Priority Queue)
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
