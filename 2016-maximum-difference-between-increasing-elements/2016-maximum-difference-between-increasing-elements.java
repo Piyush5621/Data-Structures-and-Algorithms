@@ -4,12 +4,14 @@ class Solution {
         int n = nums.length;
         int ans = -1;
         for(int i = 1 ; i < n ; i++){
-            if( minm < nums[i]){
-                ans = Math.max(ans, nums[i] - minm);
+            if(minm > nums[i]){
+                minm = nums[i];
+                continue;
             }
-            minm = Math.min(minm, nums[i]);
+            ans = Math.max(ans, nums[i] - minm);
+            
         }
 
-        return ans;
+        return ans==0 ? -1 : ans;
     }
 }
