@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0242-valid-anagram/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1768-merge-strings-alternately/) | Easy |
