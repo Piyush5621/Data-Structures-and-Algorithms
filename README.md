@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0796-rotate-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
