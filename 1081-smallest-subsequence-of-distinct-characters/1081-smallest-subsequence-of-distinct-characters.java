@@ -2,34 +2,30 @@ class Solution {
     public String smallestSubsequence(String s) {
         int ans = 1;
         int lastOcc[] = new int[26];
-        HashSet<Character> visited = new HashSet<>();
+        boolean visited[] = new boolean[26];
 
         for(int i = 0; i < s.length(); i++){
             lastOcc[s.charAt(i) - 'a'] = i;
         } 
 
-        Stack<Character>  st = new Stack<>();
+        StringBuilder str = new StringBuilder();
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
-            if(visited.contains(c)){
+            if(visited[c-'a']){
                 continue;
             }
             else{
-                while(!st.isEmpty() && st.peek() > c && lastOcc[st.peek()-'a'] > i){
-                    char cr = st.pop();
-                    visited.remove(cr);
+                while(str.length()>0 && str.charAt(str.length()-1) > c && lastOcc[str.charAt(str.length()-1)-'a'] > i){
+                    visited[str.charAt(str.length()-1)-'a']=false;
+                    str.setLength(str.length()-1);
                 }
-                st.add(c);
-                visited.add(c);
+                str.append(c);
+                visited[c-'a'] = true;
             }
             
         }
-        StringBuilder str = new StringBuilder();
-        while(!st.isEmpty()){
-            str.append(st.pop());
-        }
 
-        return str.reverse().toString();
+        return str.toString();
 
     }
 }
