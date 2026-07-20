@@ -13,17 +13,17 @@ class Solution {
                 arr[idx++] = grid[i][j];
             }
         }
-
-        rotate(0, arr.length - k - 1, arr);
-        rotate(arr.length - k, arr.length - 1, arr);
-        rotate(0, arr.length - 1, arr);
+        int ar[] = new int[m*n];
+        for(int i =0 ; i <n*m; i++){
+            ar[(i+k)%(n*m)] = arr[i];
+        }
 
 
         idx = 0;
         for (int i = 0; i < m; i++) {
             List<Integer> row = new ArrayList<>();
             for (int j = 0; j < n; j++) {
-                row.add(arr[idx++]);
+                row.add(ar[idx++]);
             }
             res.add(row);
         }
@@ -32,13 +32,13 @@ class Solution {
         
     }
 
-    void rotate(int i , int j , int arr[]){
-        while( i < j ){
-            int temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-            i++;
-            j--;
-        }
-    }
+    // void rotate(int i , int j , int arr[]){
+    //     while( i < j ){
+    //         int temp = arr[i];
+    //         arr[i] = arr[j];
+    //         arr[j] = temp;
+    //         i++;
+    //         j--;
+    //     }
+    // }
 }
