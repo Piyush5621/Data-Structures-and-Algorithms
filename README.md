@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2032-two-out-of-three](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2032-two-out-of-three/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
