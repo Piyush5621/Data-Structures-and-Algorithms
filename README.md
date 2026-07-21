@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
