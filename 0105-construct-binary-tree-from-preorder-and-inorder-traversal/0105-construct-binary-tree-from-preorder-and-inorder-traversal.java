@@ -15,21 +15,22 @@
  */
 class Solution {
     int preIdx = 0;
-    public TreeNode solve(int []pre, int in[],int i,int e){
-        if(i>e) return null;
-        TreeNode curr = new TreeNode(pre[preIdx++]);
-        int idx=0;
-        for(int j=i;j<=e;j++){
-            if(in[j]==curr.val){
-                idx = j;
-                break;
-            }
+    private TreeNode solve(int[] preorder, int[] inorder, int low, int high, HashMap<Integer,Integer> map){
+        if(low > high){
+            return null;
         }
-        curr.left = solve(pre,in,i,idx-1);
-        curr.right = solve(pre,in,idx+1,e);
+        TreeNode curr = new TreeNode(preorder[preIdx]);
+        int idx = map.get(preorder[preIdx]);
+        preIdx++;
+        curr.left =  solve(preorder, inorder, low, idx-1,map);
+        curr.right = solve(preorder, inorder, idx+1, high,map);
         return curr;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return solve(preorder,inorder,0,preorder.length-1);
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i = 0; i<inorder.length; i++){
+            map.put(inorder[i] , i);
+        }
+        return solve(preorder, inorder, 0 , inorder.length-1, map);
     }
 }
