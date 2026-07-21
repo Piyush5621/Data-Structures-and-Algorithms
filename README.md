@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0498-diagonal-traverse/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0278-first-bad-version](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0278-first-bad-version/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
