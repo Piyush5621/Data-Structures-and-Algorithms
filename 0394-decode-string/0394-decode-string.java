@@ -17,11 +17,12 @@ class Solution {
                 }
                 num.reverse();
                 int n = Integer.parseInt(num.toString());
-                String strr = temp.toString().repeat(n);
-                for (char d : strr.toCharArray()) {
-                    st.push(d);
+
+                while (n-- > 0) {
+                    for (char d : temp.toString().toCharArray()) {
+                        st.push(d);
+                    }
                 }
-            
             } else {
                 st.push(c);
             }
