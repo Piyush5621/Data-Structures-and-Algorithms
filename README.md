@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0771-jewels-and-stones/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
