@@ -15,12 +15,14 @@
  */
 class Solution {
     private TreeNode solve(int i, int n, int preorder[],int postorder[],HashMap<Integer,Integer>premap, HashMap<Integer,Integer> postmap){
-        if (i > n) return null;
-        TreeNode root = new TreeNode (preorder[i]);
-        if (i == n) return root;
-        int m = premap.get(postorder[postmap.get(preorder[i]) - 1]);
-        root.left = solve (i + 1, m - 1, preorder,postorder,premap,postmap);
-        root.right = solve (m, n, preorder,postorder,premap,postmap);
+        if(i > n) return null;
+
+        TreeNode root = new TreeNode(preorder[i]);
+        if(i==n) return root;
+        int m = premap.get(postorder[postmap.get(preorder[i])-1]);
+
+        root.left = solve(i+1, m-1, preorder, postorder,premap,postmap);
+        root.right = solve(m, n, preorder,postorder,premap,postmap); 
         return root;
 
     }
