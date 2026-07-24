@@ -10,19 +10,19 @@ class Solution {
                 pair[duo] = true;
             }
        }
+       int count = 0;
        for(int i = 0; i < maxm; i++){
             if(pair[i]){
                 for(int j = 0; j < n ; j++ ){
                     int tri = nums[j] ^ i;
+                    if(!ans[tri]){
+                        count++;
+                    }
                     ans[tri] = true;
                 }
             }
             
        }
-        int count = 0;
-        for(int i = 0; i < maxm; i++){
-            if(ans[i]==true) count++;
-        }
        
        return count;
     }
