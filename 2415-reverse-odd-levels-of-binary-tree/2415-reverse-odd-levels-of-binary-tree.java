@@ -14,45 +14,22 @@
  * }
  */
 class Solution {
-    class Pair{
-        TreeNode node;
-        int lvl;
-        Pair(TreeNode a, int b){
-            node = a;
-            lvl = b;
-        }
-    }
     public TreeNode reverseOddLevels(TreeNode root) {
-        Queue<TreeNode> q = new ArrayDeque<>();
-        q.add(root);
-        int lvl =0;
+        if(root==null) return root;
+        solve(1,root.left,root.right);
+        return root;
+    }
 
-        while(!q.isEmpty()){
+    private void solve(int lvl, TreeNode root1, TreeNode root2){
+        if(root1==null || root2==null) return;
 
-            int size = q.size();
-
-            ArrayList<TreeNode> list = new ArrayList<>();
-            for(int i = 0; i<size; i++){
-                TreeNode curr = q.poll();
-                list.add(curr);
-                if(curr.left!=null) q.add(curr.left);
-                if(curr.right !=null) q.add(curr.right);
-            }
-            if( lvl%2 != 0){
-                int i =0;
-                int e = list.size()-1;
-                while(i < e){
-                    int temp = list.get(i).val;
-                    list.get(i).val = list.get(e).val;
-                    list.get(e).val = temp;
-                    i++;
-                    e--;
-                }
-            }
-            lvl++;
+        if(lvl%2!=0){
+            int temp = root1.val;
+            root1.val = root2.val;
+            root2.val = temp;
         }
 
-        return root;
-
+        solve(lvl+1, root1.left,root2.right);
+        solve(lvl+1,root1.right,root2.left);
     }
 }
