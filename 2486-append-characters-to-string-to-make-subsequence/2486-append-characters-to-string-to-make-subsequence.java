@@ -17,10 +17,7 @@ class Solution {
             
         }
 
-        System.out.println(j);
-
         if(!exist) return t.length();
-        int ans = t.length()-j;
-        return ans;
+        return t.length()-j;
     }
 }
