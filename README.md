@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1260-shift-2d-grid/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
