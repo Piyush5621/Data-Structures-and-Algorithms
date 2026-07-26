@@ -10,7 +10,7 @@ class Solution {
                 map.get(temp).add(str);
             }
             else{
-                map.put(temp,new ArrayList<>());
+                map.putIfAbsent(temp, new ArrayList<>());
                 map.get(temp).add(str);
             }
         }
