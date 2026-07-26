@@ -6,7 +6,7 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i)=='R') r++;
             if(s.charAt(i)=='L') l++;
-            if(l-r == 0) ans ++;
+            if(l == r) ans ++;
         }
         return ans;
     }
