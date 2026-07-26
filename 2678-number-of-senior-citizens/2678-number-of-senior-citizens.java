@@ -2,8 +2,9 @@ class Solution {
     public int countSeniors(String[] details) {
         int ans = 0;
         for( String s : details){
-            String str = s.substring(s.length()-4,s.length()-2);
-            int num = Integer.parseInt(str);
+            int a = s.charAt(11)-'0';
+            int b = s.charAt(12)-'0';
+            int num = a*10+b;
             if(num > 60 ){
                 ans++;
             }
