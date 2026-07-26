@@ -5,8 +5,8 @@ class Solution {
         int ans = 0;
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i)=='R') r++;
-            if(s.charAt(i)=='L') l++;
-            if(l == r) ans ++;
+            else r--;
+            if( r == 0) ans ++;
         }
         return ans;
     }
