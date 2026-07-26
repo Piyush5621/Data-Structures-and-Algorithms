@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2678-number-of-senior-citizens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2678-number-of-senior-citizens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
