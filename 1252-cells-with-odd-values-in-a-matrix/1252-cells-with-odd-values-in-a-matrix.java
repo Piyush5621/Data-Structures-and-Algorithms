@@ -4,19 +4,21 @@ class Solution {
         int cc[] = new int[n];
 
         for(int arr[] :  indices){
-            if(arr[0]>= m || arr[1]>=n ) return -1;
             rr[arr[0]]++;
             cc[arr[1]]++;
         }
-        int ans = 0;
-        for(int i=0; i< m ; i++){
-            for(int j = 0; j<n;j++){
-                if((rr[i]+cc[j])%2!=0){
-                    ans++;
-                }
-            }
+        int oddRow = 0;
+        int oddCol = 0;
+        for(int i = 0; i < m ; i++){
+            if(rr[i]%2!=0) oddRow++;
         }
-        return ans;
+        for(int i = 0; i <n ;i++){
+            if(cc[i]%2!=0) oddCol++;
+        }
+
+        int evenRow = m-oddRow;
+        int evenCol = n-oddCol;
+        return (oddRow * evenCol) + (evenRow * oddCol);
 
         
     }
