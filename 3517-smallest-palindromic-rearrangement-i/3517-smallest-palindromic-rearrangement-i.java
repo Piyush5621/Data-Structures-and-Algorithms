@@ -3,21 +3,27 @@ class Solution {
         int n = s.length();
         if(n==1) return s;
         int freq[] = new int[26];
+        char[] str = new char[n];
         for(int i = 0 ; i < n ; i++){
             freq[s.charAt(i)-'a']++;
         }
-        StringBuilder str = new StringBuilder();
-        String middle = "";
+        char middle = '\0';
+        int k =0;
+        int left =0;
+        int right =n-1;
         for(int i = 0 ; i < 26; i++){
-            for(int j= 0; j < freq[i]/2;j++){
-                str.append((char)(i+'a'));
-            }  
-            if(freq[i]%2==1){
-                middle = String.valueOf((char) (i + 'a'));
+            while(freq[i] >= 2){
+                str[left++] = (char)(i+'a');
+                str[right--] = (char)(i+'a');
+                freq[i] -=2; 
+            } 
+            if(freq[i]==1){
+                middle = (char) (i + 'a');
             }
         }
-        String first = str.toString();
-        String reversed = new StringBuilder(str).reverse().toString();
-        return first + middle + reversed;
+        if(middle != '\0'){
+            str[left] = middle;
+        }
+        return new String(str);
     }
 }
