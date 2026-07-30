@@ -1,13 +1,12 @@
 class Solution {
     public int minimumPushes(String word) {
 
-        int count = 0;
         int ans = 0;
         for( int i=0; i< word.length(); i++ ){
-            count++;
-            int k =(int)Math.ceil(count/8);
-            if(count%8 !=0) k++;
-            ans = ans+k;
+            if( i >= 0 && i < 8) ans+=1;
+            else if(i >= 8 && i < 16 ) ans+=2;
+            else if( i>= 16 && i < 24) ans+=3;
+            else ans+=4;
         }
 
         return ans;
