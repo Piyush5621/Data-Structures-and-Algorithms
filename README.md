@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0394-decode-string/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
