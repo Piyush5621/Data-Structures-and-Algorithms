@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1436-destination-city/) | Easy |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -845,4 +848,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
