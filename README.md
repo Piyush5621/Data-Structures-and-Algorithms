@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0498-diagonal-traverse/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0498-diagonal-traverse/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1260-shift-2d-grid/) | Easy |
