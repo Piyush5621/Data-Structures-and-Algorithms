@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -875,18 +877,29 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0175-combine-two-tables/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
