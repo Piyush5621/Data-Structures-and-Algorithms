@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
