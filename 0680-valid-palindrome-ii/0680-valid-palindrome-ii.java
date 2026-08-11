@@ -9,12 +9,21 @@ class Solution {
             if(s.charAt(low)!=s.charAt(high)){
                 String a = s.substring(low+1,high+1);
                 String b = s.substring(low,high); 
-                String revA = new StringBuilder(a).reverse().toString();
-                String revB = new StringBuilder(b).reverse().toString();
-                return revA.equals(a)|| revB.equals(b);
+                return isPallindrome(low+1,high,s) || isPallindrome(low,high-1,s);
             } 
             low++;
             high--;
+        }
+        return true;
+    }
+
+    private boolean isPallindrome(int l, int h,String s){
+        while( l < h){
+            if(s.charAt(l)!=s.charAt(h)){
+                return false;
+            }
+            l++;
+            h--;
         }
         return true;
     }
