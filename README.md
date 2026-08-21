@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0880-decoded-string-at-index/) | Medium |
+| [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Counting Sort
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -925,4 +928,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
