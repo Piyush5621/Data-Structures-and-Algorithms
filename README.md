@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2420-find-all-good-indices](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2420-find-all-good-indices/) | Medium |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -882,11 +885,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -937,4 +942,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 <!---LeetCode Topics End-->
