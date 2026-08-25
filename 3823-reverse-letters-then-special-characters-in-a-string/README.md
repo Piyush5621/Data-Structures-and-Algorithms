@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string">3823. Reverse Letters Then Special Characters in a String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and special characters.</p>
+<h2><a href="https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string">4200. Reverse Letters Then Special Characters in a String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and special characters.</p>
 
 <p>Your task is to perform these <strong>in order</strong>:</p>
 
