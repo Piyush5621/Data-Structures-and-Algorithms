@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3614-process-string-with-special-operations-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3813-vowel-consonant-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3813-vowel-consonant-score/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Breadth-First Search
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3813-vowel-consonant-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3813-vowel-consonant-score/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
