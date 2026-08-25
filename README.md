@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0394-decode-string/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
