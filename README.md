@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3110-score-of-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
