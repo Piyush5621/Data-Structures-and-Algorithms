@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i">3258. Count Substrings That Satisfy K-Constraint I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>binary</strong> string <code>s</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i">3543. Count Substrings That Satisfy K-Constraint I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>binary</strong> string <code>s</code> and an integer <code>k</code>.</p>
 
 <p>A <strong>binary string</strong> satisfies the <strong>k-constraint</strong> if <strong>either</strong> of the following conditions holds:</p>
 
