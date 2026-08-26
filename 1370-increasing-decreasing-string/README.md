@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/increasing-decreasing-string">1370. Increasing Decreasing String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code>. Reorder the string using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/increasing-decreasing-string">1472. Increasing Decreasing String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code>. Reorder the string using the following algorithm:</p>
 
 <ol>
 	<li>Remove the <strong>smallest</strong> character from <code>s</code> and <strong>append</strong> it to the result.</li>
