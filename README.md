@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
