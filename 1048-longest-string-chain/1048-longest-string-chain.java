@@ -1,27 +1,19 @@
 class Solution {
     public int longestStrChain(String[] words) {
         int n = words.length;
-        int memo[][] = new int[n+1][n+1];
         Arrays.sort(words,(a,b) -> Integer.compare(a.length(),b.length()));
-        for( int arr[] : memo ) Arrays.fill(arr, -1);
-        return solve(0, words, memo, -1);
-    }
-
-    private int solve( int i , String[] words, int memo[][], int prev ){
-        if( i >= words.length ) return 0;
-
-        if( memo[i][prev+1] != -1) return memo[i][prev+1];
-
-        int take = 0 ;
-
-        if(prev ==-1 || checkPredecessor(words[prev],words[i])){
-            take = 1 + solve(i+1, words, memo, i);
+        int dp[] = new int[n+1];
+        Arrays.fill(dp, 1);
+        int ans = -1;
+        for( int i = 0; i < n ; i++ ){
+            for( int j =i-1; j >= 0; j--){
+                if(checkPredecessor(words[j],words[i])){
+                    dp[i] = Math.max(dp[j]+1,dp[i]);
+                }
+            }
+            ans = Math.max(ans, dp[i]);
         }
-
-        int skip = solve(i + 1, words, memo, prev);
-
-        memo[i][prev+1] = Math.max(take, skip);
-        return memo[i][prev+1]; 
+        return ans;
     }
     private boolean checkPredecessor(String a,String b){
         if(a.length()+1 != b.length()) return false;
