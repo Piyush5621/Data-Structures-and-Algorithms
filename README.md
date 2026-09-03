@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0278-first-bad-version](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
@@ -1016,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
