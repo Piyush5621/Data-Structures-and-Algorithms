@@ -1,19 +1,22 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
         int countEven =  0 ;
+        int countOdd = 0;
         int n = nums1.length;
-        int minm = Integer.MAX_VALUE;
+        int minEven = Integer.MAX_VALUE;
+        int minOdd = Integer.MAX_VALUE;
         for( int x : nums1 ){
             if( x % 2 == 0 ){
                 countEven++;
+                minEven = Math.min(minEven , x);
+            }
+            else{
+                countOdd++;
+                minOdd = Math.min(minOdd, x);
             } 
-            minm = Math.min(minm, x);
-
-        }
-        if( minm % 2 == 1){
-            return true;
-        }
-        return countEven == n;
+        }   
+        if( countEven == n || countOdd == n) return true;
+        return minEven > minOdd;
     }
 }
 
