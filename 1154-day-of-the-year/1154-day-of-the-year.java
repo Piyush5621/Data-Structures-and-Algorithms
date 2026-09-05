@@ -4,16 +4,13 @@ class Solution {
         int day = Integer.parseInt(date.substring(8,date.length()));
         int year = Integer.parseInt(date.substring(0,4));
 
-        int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+        int[] daysBeforeMonth = {0, 31, 59, 90, 120, 151,181, 212, 243, 273, 304, 334};
 
-        if(year%400==0 ||( year%4==0 && year%100!=0)){
-            days[1] = 29;
+        int result = daysBeforeMonth[month - 1] + day;
+        if( month > 2 && (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0))){
+            result++;
         }
-        int countday = day;
-        for( int i = 1; i < month; i++){
-            countday += days[i-1]; 
-        }
-        return countday;
+        return result;
 
     }
 }
