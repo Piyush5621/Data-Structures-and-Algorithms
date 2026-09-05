@@ -4,39 +4,15 @@ class Solution {
         int day = Integer.parseInt(date.substring(8,date.length()));
         int year = Integer.parseInt(date.substring(0,4));
 
-        boolean leapYear = false;
-        if(year%400==0 ||(year%4==0 && year%100!=0)){
-            leapYear = true;
+        int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+
+        if(year%400==0 ||( year%4==0 && year%100!=0)){
+            days[1] = 29;
         }
-        int countday = 0;
-        for( int i =1; i<month; i++){
-            if(i==2){
-                if(leapYear){
-                    countday+=29;
-                }
-                else{
-                    countday+=28;
-                }
-                continue;
-            }
-            if(i>=0 && i <=7){
-                if(i%2!=0){
-                    countday+=31;
-                }
-                else{
-                    countday+=30;
-                }
-            }
-            else{
-                if(i%2!=0){
-                    countday+=30;
-                }
-                else{
-                    countday+=31;
-                }
-            }
+        int countday = day;
+        for( int i = 1; i < month; i++){
+            countday += days[i-1]; 
         }
-        countday += day;
         return countday;
 
     }
