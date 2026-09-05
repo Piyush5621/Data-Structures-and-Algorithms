@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -160,8 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3917-count-indices-with-opposite-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -216,8 +216,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0006-zigzag-conversion](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
@@ -293,8 +293,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
@@ -321,8 +321,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -337,13 +337,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0069-sqrtx/) | Easy |
@@ -373,8 +373,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0498-diagonal-traverse/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0566-reshape-the-matrix) |
@@ -398,8 +398,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
@@ -415,8 +415,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
@@ -445,8 +445,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -491,8 +491,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -509,8 +509,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
@@ -531,8 +531,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3903-smallest-stable-index-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
@@ -553,8 +553,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -595,8 +595,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -630,8 +630,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -670,8 +670,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
@@ -715,8 +715,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -726,14 +726,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0605-can-place-flowers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -758,8 +758,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -797,8 +797,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -807,8 +807,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -832,8 +832,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2000-reverse-prefix-of-word](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -845,8 +845,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -859,55 +859,55 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0796-rotate-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0796-rotate-string/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0155-min-stack/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0050-powx-n](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0231-power-of-two/) | Easy |
@@ -916,21 +916,21 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -944,21 +944,21 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -967,32 +967,32 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
@@ -1000,54 +1000,54 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1927-sum-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1927-sum-game/) | Medium |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Sprague–Grundy Theorem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 ## Dijkstra's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 ## Longest Increasing Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 ## Pigeonhole Principle
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
