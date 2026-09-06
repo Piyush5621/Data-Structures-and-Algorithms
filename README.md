@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0071-simplify-path/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0198-house-robber/) | Medium |
