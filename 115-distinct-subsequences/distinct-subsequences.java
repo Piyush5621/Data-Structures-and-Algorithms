@@ -1,24 +1,27 @@
 class Solution {
+    int memo[][];
     public int numDistinct(String s, String t) {
-        int n = s.length();
-        int m = t.length();
-        if( m > n ) return 0;
-        int memo[][] = new int[n][m];
-        for( int arr[] : memo) Arrays.fill(arr, -1);
-        return solve( 0,0, s, t ,memo);
+        memo = new int[s.length()][t.length()];
+        for(int arr[] :  memo ){
+            Arrays.fill(arr ,-1);
+        }
+        return solve(s, t, 0, 0);
     }
 
-    private int solve( int i ,int j, String s, String t, int memo[][]){
-        if( j == t.length() ) return 1;
-        if( i >= s.length() ) return 0;
-        if( memo[i][j] != -1 ) return memo[i][j];
-        int take = 0;
-        if( s.charAt(i)== t.charAt(j) ){
-            take += solve( i+1, j+1, s,t, memo);
+    public int solve(String s, String t, int i, int j) {
+        if(j == t.length()){
+            return 1;
         }
-        int skip = solve( i+1,j, s,t,memo);
-        memo[i][j] = take + skip;
-        return memo[i][j]; 
+        if(i == s.length()){
+            return 0;
+        }
+
+        if(memo[i][j]!=-1) return memo[i][j];
+        if(s.charAt(i) == t.charAt(j)){
+            return memo[i][j] = solve(s, t, i+1, j+1) + solve(s, t, i+1, j);
+        }
+
+        return memo[i][j]=solve(s, t, i+1, j);
     }
 }
 
