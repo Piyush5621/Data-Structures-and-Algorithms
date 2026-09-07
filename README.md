@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0877-stone-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
