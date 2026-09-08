@@ -3,7 +3,7 @@ class Solution {
         int a = source[0], b = source[1];
         int c = target[0] , d = target[1];
 
-        if( (a+b) % 2 ==0 && (c+d)%2!=0 || (a+b) % 2 !=0 && (c+d)%2==0  ) return -1;
+        if( (a+b) % 2 != (c+d)%2 ) return -1;
         else if( a+b == c+d || b-a == d-c) return 1;
         return 2;
     }
