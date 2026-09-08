@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-good-cyclic-rotations">4044. Count Good Cyclic Rotations</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of even length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-good-cyclic-rotations/?envType=problem-list-v2&envId=dtk00ot6">4412. Count Good Cyclic Rotations</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of even length <code>n</code>.</p>
 
 <p>A <strong>cyclic rotation</strong> of <code>nums</code> is obtained by choosing a <span data-keyword="array-prefix">prefix</span> of <code>nums</code> whose length is between 0 and <code>n - 1</code> (inclusive), and moving it to the end of the array while preserving the order of all elements.</p>
 
