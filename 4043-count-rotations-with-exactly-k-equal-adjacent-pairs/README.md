@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs">4043. Count Rotations With Exactly K Equal Adjacent Pairs</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/?envType=problem-list-v2&envId=dtk00ot6">4043. Count Rotations With Exactly K Equal Adjacent Pairs</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> and an integer <code>k</code>.</p>
 
 <p>A <strong>cyclic rotation</strong> of <code>s</code> is obtained by choosing a <span data-keyword="string-prefix">prefix</span> of <code>s</code> whose length is between 0 and <code>n - 1</code> (inclusive), and moving it to the end of the string while preserving the order of all characters.</p>
 
