@@ -36,9 +36,8 @@ class Solution {
                     q.add(temp.right);
                 }
             }
-            ans.add(list);
+            ans.add(0,list);
         }
-        Collections.reverse(ans);
 
         return ans;
     }
