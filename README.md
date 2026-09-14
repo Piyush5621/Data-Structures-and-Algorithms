@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
@@ -1090,4 +1091,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1025-divisor-game/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
