@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
