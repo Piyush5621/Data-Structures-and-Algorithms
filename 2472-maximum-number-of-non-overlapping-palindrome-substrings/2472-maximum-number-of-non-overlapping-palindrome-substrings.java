@@ -11,7 +11,7 @@ class Solution {
 
         if(memo[idx] != -1 ) return memo[idx];
 
-        int ans = solve(idx+1,s,k);
+        int ans = solve(idx+1, s, k);
         for( int i = idx+k-1  ; i < s.length(); i++){
             if(checkPalindrome(idx, i, s)){
                 ans = Math.max(ans, 1+ solve(i+1,s,k));
