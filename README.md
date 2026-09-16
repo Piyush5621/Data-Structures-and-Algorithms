@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1927-sum-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1927-sum-game/) | Medium |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
