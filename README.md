@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-increasing-decreasing-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1436-destination-city/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
