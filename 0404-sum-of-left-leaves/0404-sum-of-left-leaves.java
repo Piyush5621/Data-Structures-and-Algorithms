@@ -15,15 +15,22 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-        return dfs(root,false);  
+        return solve(root,false);
     }
 
-    private int dfs(TreeNode root, boolean isLeft){
-        if(root == null) return 0;
-        if(root.left == null && root.right == null){
-            return (isLeft)? root.val : 0;
+    private int solve(TreeNode root,boolean isLeft){
+        if( root == null ) return 0;
+        if(isLeft && root.left ==null && root.right == null){
+            return root.val;
         }
-
-        return dfs(root.left,true)+dfs(root.right,false);
+        int sum = 0; 
+        sum += solve(root.left,true);
+        sum += solve(root.right,false);
+        return sum;
     }
+
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
