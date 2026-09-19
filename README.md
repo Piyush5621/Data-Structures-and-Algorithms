@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
