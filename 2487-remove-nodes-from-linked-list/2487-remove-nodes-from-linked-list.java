@@ -12,19 +12,20 @@ class Solution {
     public ListNode removeNodes(ListNode head) {
         if(head == null || head.next == null ) return head;
         ListNode rev = reverse(head);
-        ListNode dummy = new ListNode(rev.val);
-        ListNode ans = dummy;
+        ListNode ans = rev;
         int maxm = rev.val;
         ListNode temp = rev.next;
+        ListNode prev = rev;
 
         while( temp != null){
-            if(temp.val >= maxm){
-                dummy.next = new ListNode(temp.val);
+            if( temp.val >= maxm ){
+                prev.next = temp;
+                prev = temp;
                 maxm = temp.val;
-                dummy = dummy.next;
             }
             temp = temp.next;
         }
+        prev.next = null;
 
         ListNode revans = reverse(ans);
         return revans;
