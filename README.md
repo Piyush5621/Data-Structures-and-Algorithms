@@ -879,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1544-make-the-string-great](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -967,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
