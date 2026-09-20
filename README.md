@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3813-vowel-consonant-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3813-vowel-consonant-score/) | Easy |
