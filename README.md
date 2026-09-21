@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1154-day-of-the-year](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1025-divisor-game/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1154-day-of-the-year](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1154-day-of-the-year/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -1135,4 +1137,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
