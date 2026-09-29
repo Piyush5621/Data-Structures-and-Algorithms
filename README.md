@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
