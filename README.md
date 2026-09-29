@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
