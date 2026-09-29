@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -952,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
