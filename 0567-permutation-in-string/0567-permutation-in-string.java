@@ -1,54 +1,41 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if (s2.length() < s1.length()) {
-            return false;
+        int freq1[] = new int[26];
+        int freq2[] = new int[26];
+
+        for( char c : s1.toCharArray() ){
+            freq1[c -'a']++;
         }
-        HashMap<Character,Integer> map = new HashMap<>();
-
-        for(int i =0; i<s1.length(); i++){
-            map.put(s1.charAt(i),map.getOrDefault(s1.charAt(i),0)+1);
-        }
-
-        int count = map.size();
-        int k = s1.length();
-        for(int i =0; i < k; i++){
-            if(map.containsKey(s2.charAt(i))){
-                map.put(s2.charAt(i),map.get(s2.charAt(i))-1);
-                if(map.get(s2.charAt(i))==0){
-                    count--;
-                }
-                else if(map.get(s2.charAt(i))==-1){
-                    count++;
-                }
+        int left  = 0;
+        int right = 0;
+        int len1 = s1.length();
+        while( right < s2.length() ){
+            char ch = s2.charAt(right);
+            freq2[ch-'a']++;
+            if(right - left +1 == len1 ){
+                if(check(freq1,freq2)) return true;
             }
-        }
-        if(count==0) return true;
-
-        for(int i = k; i<s2.length(); i++){
-            char left = s2.charAt(i-k);
-            char right = s2.charAt(i);
-            if (map.containsKey(left)) {
-                map.put(left, map.get(left) + 1);
-                if (map.get(left) == 0) {
-                    count--;
-                }
-                else if (map.get(left) == 1) {
-                    count++;
-                }
+            if(right - left + 1 < len1 ){
+                right++;
             }
-            if (map.containsKey(right)) {
-                map.put(right, map.get(right) - 1);
-
-                if (map.get(right) == 0) {
-                    count--;
-                }
-                else if (map.get(right) == -1) {
-                    count++;
-                }
+            else{
+                freq2[s2.charAt(left)-'a']--;
+                left++;
+                right++;
             }
-
-            if(count==0) return true;
         }
         return false;
     }
+
+    private boolean check(int freq1[], int freq2[] ){
+        for( int i = 0; i < 26; i++ ){
+            if( freq1[i] != freq2[i] ) return false;
+        }
+
+        return true;
+    }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
