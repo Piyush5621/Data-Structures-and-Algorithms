@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1154-day-of-the-year](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1544-make-the-string-great](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -1179,4 +1181,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
