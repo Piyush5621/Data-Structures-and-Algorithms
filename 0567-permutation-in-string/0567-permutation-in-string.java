@@ -1,7 +1,6 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int freq1[] = new int[26];
-        int freq2[] = new int[26];
 
         for( char c : s1.toCharArray() ){
             freq1[c -'a']++;
@@ -11,15 +10,15 @@ class Solution {
         int len1 = s1.length();
         while( right < s2.length() ){
             char ch = s2.charAt(right);
-            freq2[ch-'a']++;
+            freq1[ch-'a']--;
             if(right - left +1 == len1 ){
-                if(check(freq1,freq2)) return true;
+                if(check(freq1)) return true;
             }
             if(right - left + 1 < len1 ){
                 right++;
             }
             else{
-                freq2[s2.charAt(left)-'a']--;
+                freq1[s2.charAt(left)-'a']++;
                 left++;
                 right++;
             }
@@ -27,9 +26,9 @@ class Solution {
         return false;
     }
 
-    private boolean check(int freq1[], int freq2[] ){
+    private boolean check(int freq1[] ){
         for( int i = 0; i < 26; i++ ){
-            if( freq1[i] != freq2[i] ) return false;
+            if( freq1[i] != 0 ) return false;
         }
 
         return true;
