@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0202-happy-number/) | Easy |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0071-simplify-path/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
