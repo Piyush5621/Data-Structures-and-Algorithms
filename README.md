@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0217-contains-duplicate/) | Easy |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0202-happy-number/) | Easy |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -1154,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Brainteaser
