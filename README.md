@@ -927,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0231-power-of-two/) | Easy |
