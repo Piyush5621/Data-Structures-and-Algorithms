@@ -1197,4 +1197,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
