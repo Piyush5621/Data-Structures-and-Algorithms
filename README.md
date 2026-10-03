@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -1190,5 +1193,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
