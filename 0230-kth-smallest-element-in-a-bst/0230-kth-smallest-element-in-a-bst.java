@@ -14,17 +14,21 @@
  * }
  */
 class Solution {
-    int count = 0;
-    int res =-1;
-    private void solve(TreeNode root, int k){
-        if(root==null) return ;
-        kthSmallest(root.left,k);
-        count++;
-        if(count == k) res = root.val;
-        kthSmallest(root.right,k);
-    }
+    int c =0;
     public int kthSmallest(TreeNode root, int k) {
-        solve(root,k);
-        return res;
+        return solve(root, k);
+    }
+    private int solve( TreeNode root, int k ){
+        if(root == null ) return -1;
+
+        int result = solve(root.left , k );
+        if( result != -1 ) return result;
+        c++;
+        if(c == k) return root.val;
+        return solve(root.right, k);
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
