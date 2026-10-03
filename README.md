@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
