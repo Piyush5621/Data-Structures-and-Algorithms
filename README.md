@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
@@ -1205,4 +1209,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
