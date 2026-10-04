@@ -1,34 +1,27 @@
 class Solution {
-    Boolean memo[][];
     public boolean checkValidString(String s) {
-        int n = s.length();
-        memo = new Boolean[n][n+1];
-        return solve(s, 0, 0);
-    }
+        int minBal = 0;
+        int maxBal = 0;
 
-    private boolean solve(String s, int i, int op){
+        for( char c : s.toCharArray() ){
+            if( c == '('){
+                minBal++;
+                maxBal++;
+            }
+            else if( c == ')' ){
+                minBal--;
+                maxBal--;
+                if(maxBal < 0) return false;
 
-        if( op < 0 ) return false;
-
-        if( i >= s.length() ){
-            return op == 0;
+            }
+            else{
+                minBal--;
+                maxBal++;
+            }
+            if (minBal < 0) minBal=0;
         }
 
-        if(memo[i][op]!= null) return memo[i][op];
-
-        char ch = s.charAt(i);
-        boolean ans = false;
-        if( ch == '('){
-            ans |=  solve(s,i+1,op+1);
-        }
-        else if( ch == ')'){
-            ans |= solve(s, i+1, op-1);
-        }
-        else{
-            ans |= solve(s, i+1, op+1) || solve(s, i+1, op-1) || solve(s, i+1, op);
-        }
-
-        return memo[i][op] = ans;
+        return minBal==0;
     }
 }
 
