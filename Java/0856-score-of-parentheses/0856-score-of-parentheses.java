@@ -14,11 +14,10 @@ class Solution {
                 else{
                     top = 2*top;
                 }
-                int par = st.pop();
-                st.push(top+par);
+                st.push(st.pop() + top );
             }
         }
-        return st.isEmpty()? 0 : st.peek();  
+        return st.peek();  
     }
 }
 
