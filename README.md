@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0856-score-of-parentheses/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0856-score-of-parentheses/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0901-online-stock-span](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
