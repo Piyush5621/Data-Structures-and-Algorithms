@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
