@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3904-smallest-stable-index-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -978,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1226,4 +1232,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
