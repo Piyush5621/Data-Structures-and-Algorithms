@@ -1,21 +1,23 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> st = new Stack<>();
-
-        for(int i = 0; i < s.length(); i++){
-            char c = s.charAt(i);
-            if(c == ')'){
-                if(!st.isEmpty() && st.peek()=='('){
-                    st.pop();
-                }
-                else{
-                    st.add(c);
-                }
+        int ans = 0;
+        int open = 0;
+        for( int i =0; i < s.length(); i++ ){
+            if(s.charAt(i)=='('){
+                open++;
             }
             else{
-                st.add(c);
-            } 
+                open--;
+                if(open < 0){
+                    ans++;
+                    open++;
+                }
+            }
         }
-        return st.size();
+        return ans + open;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
