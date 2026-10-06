@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0506-relative-ranks](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
@@ -834,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
+| [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -976,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
+| [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
