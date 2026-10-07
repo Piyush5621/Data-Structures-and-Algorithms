@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0389-find-the-difference/) | Easy |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0301-remove-invalid-parentheses/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
