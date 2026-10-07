@@ -35,9 +35,6 @@ class Solution {
             }
             return;
         }
-        if(mR < 0){
-            return;
-        }
 
         char ch = s.charAt(idx);
 
@@ -50,7 +47,9 @@ class Solution {
             str.append(ch);
             solve(s,idx+1, open+1,mR,str);
             str.deleteCharAt(str.length()-1);
-            solve(s,idx+1,open,mR-1,str);
+            if(mR > 0){
+                solve(s,idx+1,open,mR-1,str);
+            }
         }
         else{
             if(open > 0){
@@ -58,8 +57,9 @@ class Solution {
                 solve(s,idx+1, open-1,mR,str);
                 str.deleteCharAt(str.length()-1);
             }
-            solve(s,idx+1,open,mR-1,str);
- 
+            if(mR > 0 ){
+                solve(s,idx+1,open,mR-1,str);
+            } 
         }
     }
 }
