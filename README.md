@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2420-find-all-good-indices](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2420-find-all-good-indices/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
