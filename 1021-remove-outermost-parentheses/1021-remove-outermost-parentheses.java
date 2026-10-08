@@ -1,24 +1,23 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        Stack<Character> st = new Stack<>();
         StringBuilder str = new StringBuilder();
-        for( int i = 0; i < s.length() ; i ++){
-            char c = s.charAt(i);
-            if( c == '('){
-                if(!st.isEmpty()){
-                    str.append(c);
-                }
-                st.add(c); 
+        int bal = 0;
+        for( int i = 0; i < s.length(); i++ ){
+            if(s.charAt(i)=='('){
+                if(bal > 0) str.append('(');
+                bal++;
             }
             else{
-                st.pop();
-                if(!st.isEmpty()){
-                    str.append(c);
+                bal--;
+                if(bal > 0){
+                    str.append(')');
                 }
             }
-           
         }
-            
         return str.toString();
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
