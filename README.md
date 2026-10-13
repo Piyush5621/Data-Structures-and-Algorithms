@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
