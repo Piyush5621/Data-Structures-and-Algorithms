@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1154-day-of-the-year](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1208-get-equal-substrings-within-budget/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1208-get-equal-substrings-within-budget/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
