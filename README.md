@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2678-number-of-senior-citizens/) | Easy |
