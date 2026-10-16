@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2032-two-out-of-three](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2032-two-out-of-three/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
+| [1486-xor-operation-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
