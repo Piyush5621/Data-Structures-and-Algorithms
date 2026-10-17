@@ -16,17 +16,22 @@
 class Solution {
     int ans = Integer.MAX_VALUE;
     int prev = -1;
-    void inorder(TreeNode root){
-        if(root == null) return;
-        inorder(root.left);
-        if(prev!=-1){
-            ans = Math.min(ans, root.val - prev);
-        }
-        prev = root.val;
-        inorder(root.right);
-    }
     public int minDiffInBST(TreeNode root) {
-        inorder(root);
+        solve(root);
         return ans;
     }
+    private void solve(TreeNode root){
+        if(root == null ) return;
+
+        solve(root.left);
+        if(prev!=-1){
+            ans = Math.min(Math.abs(prev - root.val) ,ans);
+        }
+        prev = root.val;
+        solve(root.right);
+    }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
