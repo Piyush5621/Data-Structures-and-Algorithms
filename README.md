@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3206-alternating-groups-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3206-alternating-groups-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3206-alternating-groups-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3206-alternating-groups-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Prefix Sum
