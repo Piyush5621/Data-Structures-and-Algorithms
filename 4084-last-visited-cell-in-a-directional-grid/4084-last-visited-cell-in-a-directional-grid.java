@@ -1,9 +1,6 @@
 class Solution {
     public int[] lastVisitedCell(char[][] grid) {
         Queue<int[]> q = new ArrayDeque<>();
-
-        int rr[] = new int[]{0,0,-1,1};
-        int cc[] = new int[]{-1,1,0,0};
         int n = grid.length;
         int m = grid[0].length;
         boolean vis[][] = new boolean[n][m];
