@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Merge Sort
