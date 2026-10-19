@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
+| [0645-set-mismatch](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1486-xor-operation-in-an-array/) | Easy |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
 | [0853-car-fleet](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0853-car-fleet/) | Medium |
