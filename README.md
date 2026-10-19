@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2032-two-out-of-three](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2032-two-out-of-three/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1768-merge-strings-alternately](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1927-sum-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1927-sum-game/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
