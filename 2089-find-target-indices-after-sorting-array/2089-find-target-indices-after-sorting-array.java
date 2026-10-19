@@ -1,20 +1,18 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
-        int first = 0;
-        int last = 0;
-
-        for(int x : nums){
-            if( x < target) first++;
-            else if(x == target) last++;
-        }
-
         List<Integer> ans = new ArrayList<>();
-        for(int i = 0; i< last; i++){
-            ans.add(first);
-            first++;
+        Arrays.sort(nums);
+
+        for( int i = 0; i < nums.length; i++ ){
+            if( nums[i] == target ){
+                ans.add(i);
+            }
         }
 
         return ans;
-
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
