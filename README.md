@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1394-find-lucky-integer-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1424-diagonal-traverse-ii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1046-last-stone-weight/) | Easy |
+| [1424-diagonal-traverse-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2333-minimum-sum-of-squared-difference/) | Medium |
