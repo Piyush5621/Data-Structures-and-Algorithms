@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0118-pascals-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
