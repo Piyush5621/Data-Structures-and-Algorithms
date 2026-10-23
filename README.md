@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
