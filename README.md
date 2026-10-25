@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-flipping-an-image](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0835-image-overlap/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0872-leaf-similar-trees](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -1162,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
