@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1172,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
