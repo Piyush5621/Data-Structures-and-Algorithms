@@ -2,7 +2,6 @@ class Solution {
     public String[] createGrid(int m, int n) {
         String[] ans = new String[m];
         char[][] str =new char[m][n];
-        boolean vis[][] = new boolean[m][n];
         for(char [] a: str){
             Arrays.fill(a,'#');
         }
@@ -25,7 +24,3 @@ class Solution {
         return ans;
     }
 }
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
