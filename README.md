@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1051-height-checker](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1140-stone-game-ii/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1254-number-of-closed-islands/) | Medium |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1002-find-common-characters/) | Easy |
 | [1048-longest-string-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1154-day-of-the-year](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1154-day-of-the-year/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1208-get-equal-substrings-within-budget/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0767-reorganize-string/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1370-increasing-decreasing-string) |
