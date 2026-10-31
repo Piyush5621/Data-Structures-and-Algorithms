@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3921-score-validator](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3921-score-validator/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -1191,12 +1193,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [3310-remove-methods-from-project](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
