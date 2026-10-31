@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2420-find-all-good-indices](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2420-find-all-good-indices/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3693-climbing-stairs-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
