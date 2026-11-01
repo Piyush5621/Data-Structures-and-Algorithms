@@ -6,7 +6,6 @@ class Solution {
             str.append(nums[i-1]);
             str.append(nums[i]);
             int curr = Integer.parseInt(str.toString());
-            System.out.println(curr);
             minm = Math.min(minm, curr);
         }
         return minm;
