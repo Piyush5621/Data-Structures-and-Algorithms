@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0435-non-overlapping-intervals/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0435-non-overlapping-intervals/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0523-continuous-subarray-sum/) | Medium |
