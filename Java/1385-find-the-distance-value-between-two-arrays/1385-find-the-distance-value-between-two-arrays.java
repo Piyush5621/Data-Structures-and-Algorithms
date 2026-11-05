@@ -7,6 +7,7 @@ class Solution {
             for( int y : arr2 ){
                 if( Math.abs(x-y) <= d){
                     exist = true;
+                    break;
                 }
             } 
 
