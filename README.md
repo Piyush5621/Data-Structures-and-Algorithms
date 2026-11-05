@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1406-stone-game-iii/) | Hard |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1208-get-equal-substrings-within-budget/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1424-diagonal-traverse-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1048-longest-string-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
