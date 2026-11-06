@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2094-finding-3-digit-even-numbers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2747-count-zero-request-servers/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2747-count-zero-request-servers/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1871-jump-game-vii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1871-jump-game-vii/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3206-alternating-groups-i/) | Easy |
