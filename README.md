@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1882-process-tasks-using-servers/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1424-diagonal-traverse-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1424-diagonal-traverse-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/1786-number-of-restricted-paths-from-first-to-last-node/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
