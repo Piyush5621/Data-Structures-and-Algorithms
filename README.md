@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3206-alternating-groups-i/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1101,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1882-process-tasks-using-servers](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3620-network-recovery-pathways/) | Hard |
