@@ -1,16 +1,25 @@
 class Solution {
     public long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
 
-        long minNeed = Math.min( need1, need2 );
+        long maxNeed = Math.max( need1, need2 );
 
-        long Tcost1 = 1L * (long) minNeed * costBoth;
-        Tcost1 += 1L * (long) (need1 - minNeed) *  cost1;
-        Tcost1 += 1L * (long) (need2 - minNeed ) * cost2;
+        long opt1 = 1L * (long) costBoth * maxNeed;
 
-        long maxNeed = Math.max(need1, need2);
-        long Tcost2 = 1L * (long) maxNeed * costBoth;  
-        long Tcost3 = 1L * (long) need1 * cost1 + 1L * (long) need2 * cost2;
+        long opt2 = 0;
 
-        return Math.min(Tcost1, Math.min(Tcost2,Tcost3));
+        opt2 += 1L * (long) cost1 * need1;
+        opt2 += 1L * (long) cost2 * need2;
+        long opt3 = 0;
+
+        if( need1  > need2 ){
+            opt3 += 1L * (long) need2 * costBoth;
+            opt3  += 1L * (long) (need1 - need2) * cost1;
+        }
+        else{
+            opt3 += 1L * (long) need1 * costBoth;
+            opt3  += 1L * (long) (need2 - need1) * cost2;
+        }
+
+        return  Math.min(opt1, Math.min(opt2,opt3));
     }
 }
