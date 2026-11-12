@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3206-alternating-groups-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3206-alternating-groups-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
