@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0665-non-decreasing-array](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/0724-find-pivot-index) |
