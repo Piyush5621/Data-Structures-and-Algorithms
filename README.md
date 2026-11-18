@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2697-lexicographically-smallest-palindrome](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/Java/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Piyush5621/Data-Structures-and-Algorithms/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
